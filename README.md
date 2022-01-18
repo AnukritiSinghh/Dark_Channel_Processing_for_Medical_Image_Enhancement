@@ -1,5 +1,5 @@
 # Dark Channel Processing for Medical Image Enhancement
-[Anukriti Singh](https://anukritisinghh.github.io/), [Aditi Chandra](https://www.linkedin.com/in/aditichandra18/), [Rajesh Kumar](https://drrajeshkumar.wordpress.com/), [Kuldeep Singh], [Nilanjan Dey]
+[Anukriti Singh](https://anukritisinghh.github.io/), [Aditi Chandra](https://www.linkedin.com/in/aditichandra18/), [Rajesh Kumar](https://drrajeshkumar.wordpress.com/), Kuldeep Singh, Nilanjan Dey
 
 [[`pdf`](https://ieeexplore.ieee.org/document/9019993/)] [[`BibTeX`](#3-citing-semask)]
 
@@ -14,10 +14,10 @@ This repo contains the code and result for our paper **Dark Channel Processing f
 
 
 ### Structural Similarity index (SSIM) values
-<img src="images/ssim.png" alt='semask' height='600px'>
+<img src="images/ssim.png" alt='dehaze' height='600px'>
 
 ### Correlation factor comparison
-<img src="images/correlation.png" alt='semask' height='600px'>
+<img src="images/correlation.png" alt='dehaze' height='600px'>
 
 ## 2. Setup 
 
